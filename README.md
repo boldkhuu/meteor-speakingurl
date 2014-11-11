@@ -2,7 +2,7 @@ meteor-speakingurl
 ==================
 `meteor add ongoworks:speakingurl`
 
-Wraps (speakingurl)[https://github.com/pid/speakingurl] as a Meteor package.
+Wraps [speakingurl](https://github.com/pid/speakingurl) as a Meteor package.
 
 Exports `getSlug`
 
