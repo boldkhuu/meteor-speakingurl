@@ -2,7 +2,7 @@
 Package.describe({
   name: "ongoworks:speakingurl",
   summary: "Generate a slug. Wraps the speakingurl package for Meteor",
-  version: "1.0.0",
+  version: "1.0.1",
   git: "https://github.com/ongoworks/meteor-speakingurl"
 });
 
@@ -12,5 +12,5 @@ Npm.depends({
 
 Package.on_use(function (api) {
   api.export('getSlug');
-  api.add_files('speakingurl.js', 'server');
+  api.add_files('speakingurl.js');
 });
