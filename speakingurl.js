@@ -1,1 +1,0 @@
-getSlug = Npm.require('speakingurl');
