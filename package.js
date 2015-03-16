@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "speakingurl": "1.0.0"
+  "speakingurl": "1.1.0"
 });
 
 Package.on_use(function (api) {
